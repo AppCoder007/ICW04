@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>A</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Alabama</string>
+                <key>joinDate</key>
+                <string>December 14, 1819 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/alabama-flag-small</string>
+                <key>motto</key>
+                <string>We Dare Maintain Our Rights</string>
+                <key>capital</key>
+                <string>Montgomery</string>
+                <key>population</key>
+                <string>4,884,115</string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Alaska</string>
+                <key>joinDate</key>
+                <string>January 3, 1959 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/alaska-flag-small</string>
+                <key>motto</key>
+                <string>North to the Future</string>
+                <key>capital</key>
+                <string>Juneau</string>
+                <key>population</key>
+                <string>741,204  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Arizona</string>
+                <key>joinDate</key>
+                <string>February 14, 1912 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/arizona-flag-small</string>
+                <key>motto</key>
+                <string>God enriches</string>
+                <key>capital</key>
+                <string>Phoenix</string>
+                <key>population</key>
+                <string>7,026,629  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Arkansas</string>
+                <key>joinDate</key>
+                <string>June 15, 1836 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/arkansas-flag-small</string>
+                <key>motto</key>
+                <string>The people rule</string>
+                <key>capital</key>
+                <string>Little Rock</string>
+                <key>population</key>
+                <string>3,000,942  </string>
+            </dict>
+        </array>
+        
+        <key>C</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>California</string>
+                <key>joinDate</key>
+                <string>September 9, 1850 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/california-flag-small</string>
+                <key>motto</key>
+                <string>I have found it</string>
+                <key>capital</key>
+                <string>Sacramento</string>
+                <key>population</key>
+                <string>39,849,872  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Colorado</string>
+                <key>joinDate</key>
+                <string>August 1, 1876 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/colorado-flag-small</string>
+                <key>motto</key>
+                <string>Nothing without providence</string>
+                <key>capital</key>
+                <string>Denver</string>
+                <key>population</key>
+                <string>5,658,546  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Connecticut</string>
+                <key>joinDate</key>
+                <string>January 9, 1788 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/connecticut-flag-small</string>
+                <key>motto</key>
+                <string>He who transplanted still sustains</string>
+                <key>capital</key>
+                <string>Hartford</string>
+                <key>population</key>
+                <string>3,583,134  </string>
+            </dict>
+        </array>
+        
+        
+        <key>D</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Delaware</string>
+                <key>joinDate</key>
+                <string>December 7, 1787 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/delaware-flag-small</string>
+                <key>motto</key>
+                <string>Liberty and independence</string>
+                <key>capital</key>
+                <string>Dover</string>
+                <key>population</key>
+                <string>965,866  </string>
+            </dict>
+        </array>
+        
+        <key>F</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Florida</string>
+                <key>joinDate</key>
+                <string>March 3, 1845 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/florida-flag-small</string>
+                <key>motto</key>
+                <string>In God we trust</string>
+                <key>capital</key>
+                <string>Tallahassee</string>
+                <key>population</key>
+                <string>21,002,678  </string>
+            </dict>
+        </array>
+        
+        <key>G</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Georgia</string>
+                <key>joinDate</key>
+                <string>January 2, 1788 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/georgia-flag-small</string>
+                <key>motto</key>
+                <string>Wisdom, Justice, and Moderation</string>
+                <key>capital</key>
+                <string>Atlanta</string>
+                <key>population</key>
+                <string>10,450,316  </string>
+            </dict>
+        </array>
+        
+        <key>H</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Hawaii</string>
+                <key>joinDate</key>
+                <string>August 21, 1959 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/hawaii-flag-small</string>
+                <key>motto</key>
+                <string>The life of the land is perpetuated
+                    in righteousness</string>
+                <key>capital</key>
+                <string>Honolulu</string>
+                <key>population</key>
+                <string>1,454,295  </string>
+            </dict>
+        </array>
+        
+        <key>I</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Idaho</string>
+                <key>joinDate</key>
+                <string>July 3, 1890 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/idaho-flag-small</string>
+                <key>motto</key>
+                <string>It is perpetual</string>
+                <key>capital</key>
+                <string>Boise</string>
+                <key>population</key>
+                <string>1,695,178  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Illinois</string>
+                <key>joinDate</key>
+                <string>December 3, 1818 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/illinois-flag-small</string>
+                <key>motto</key>
+                <string>State sovereignty, national union</string>
+                <key>capital</key>
+                <string>Springfield</string>
+                <key>population</key>
+                <string>12,815,607  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Indiana</string>
+                <key>joinDate</key>
+                <string>December 11, 1816 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/indiana-flag-small</string>
+                <key>motto</key>
+                <string>The crossroads of America</string>
+                <key>capital</key>
+                <string>Indianapolis</string>
+                <key>population</key>
+                <string>6,663,280  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Iowa</string>
+                <key>joinDate</key>
+                <string>December 28, 1846 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/iowa-flag-small</string>
+                <key>motto</key>
+                <string>Our liberties we prize
+                    and our rights we will maintain</string>
+                <key>capital</key>
+                <string>Des Moines</string>
+                <key>population</key>
+                <string>3,152,735  </string>
+            </dict>
+        </array>
+        
+        <key>K</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Kansas</string>
+                <key>joinDate</key>
+                <string>January 29, 1861 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/kansas-flag-small</string>
+                <key>motto</key>
+                <string>To the stars through difficulties</string>
+                <key>capital</key>
+                <string>Topeka</string>
+                <key>population</key>
+                <string>2,929,909  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Kentucky</string>
+                <key>joinDate</key>
+                <string>June 1, 1792 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/kentucky-flag-small</string>
+                <key>motto</key>
+                <string>Let Us Be Grateful to God</string>
+                <key>capital</key>
+                <string>Frankfort</string>
+                <key>population</key>
+                <string>4,450,042  </string>
+            </dict>
+        </array>
+        
+        <key>L</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Louisiana</string>
+                <key>joinDate</key>
+                <string>April 30, 1812 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/louisiana-flag-small</string>
+                <key>motto</key>
+                <string>Union, justice and confidence</string>
+                <key>capital</key>
+                <string>Baton Rouge</string>
+                <key>population</key>
+                <string>4,714,192  </string>
+            </dict>
+        </array>
+        
+        <key>M</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Maine</string>
+                <key>joinDate</key>
+                <string>March 15, 1820 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/maine-flag-small</string>
+                <key>motto</key>
+                <string>I direct</string>
+                <key>capital</key>
+                <string>Augusta</string>
+                <key>population</key>
+                <string>1,327,472  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Maryland</string>
+                <key>joinDate</key>
+                <string>April 28, 1788 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/maryland-flag-small</string>
+                <key>motto</key>
+                <string>Manly deeds, womanly words</string>
+                <key>capital</key>
+                <string>Annapolis</string>
+                <key>population</key>
+                <string>6,068,511  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Massachusetts</string>
+                <key>joinDate</key>
+                <string>February 6, 1788 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/massachusetts-flag-small</string>
+                <key>motto</key>
+                <string>By the sword we seek peace,
+                    but peace only under liberty</string>
+                <key>capital</key>
+                <string>Boston</string>
+                <key>population</key>
+                <string>6,873,018  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Michigan</string>
+                <key>joinDate</key>
+                <string>January 26, 1837 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/michigan-flag-small</string>
+                <key>motto</key>
+                <string>If you seek a pleasant peninsula,
+                    look about you</string>
+                <key>capital</key>
+                <string>Lansing</string>
+                <key>population</key>
+                <string>9,935,116  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Minnesota</string>
+                <key>joinDate</key>
+                <string>May 11, 1858 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/minnesota-flag-small</string>
+                <key>motto</key>
+                <string>The star of the north</string>
+                <key>capital</key>
+                <string>St. Paul</string>
+                <key>population</key>
+                <string>5,554,532  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Mississippi</string>
+                <key>joinDate</key>
+                <string>December 10, 1817 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/mississippi-flag-small</string>
+                <key>motto</key>
+                <string>By valor and arms</string>
+                <key>capital</key>
+                <string>Jackson</string>
+                <key>population</key>
+                <string>2,990,113  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Missouri</string>
+                <key>joinDate</key>
+                <string>August 10, 1821 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/missouri-flag-small</string>
+                <key>motto</key>
+                <string>The welfare of the people
+                    shall be the supreme law</string>
+                <key>capital</key>
+                <string>Jefferson City</string>
+                <key>population</key>
+                <string>6,123,362  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Montana</string>
+                <key>joinDate</key>
+                <string>November 8, 1889 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/montana-flag-small</string>
+                <key>motto</key>
+                <string>Gold and Silver</string>
+                <key>capital</key>
+                <string>Helena</string>
+                <key>population</key>
+                <string>1,052,343  </string>
+            </dict>
+        </array>
+        
+        <key>N</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Nebraska</string>
+                <key>joinDate</key>
+                <string>March 1, 1867 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/nebraska-flag-small</string>
+                <key>motto</key>
+                <string>Equality before the law</string>
+                <key>capital</key>
+                <string>Lincoln</string>
+                <key>population</key>
+                <string>1,922,610  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Nevada</string>
+                <key>joinDate</key>
+                <string>October 31, 1864 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/nevada-flag-small</string>
+                <key>motto</key>
+                <string>All for our country</string>
+                <key>capital</key>
+                <string>Carson City</string>
+                <key>population</key>
+                <string>2,995,973  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>New-Hampshire</string>
+                <key>joinDate</key>
+                <string>June 21, 1788 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/new-hampshire-flag-small</string>
+                <key>motto</key>
+                <string>Live free or die</string>
+                <key>capital</key>
+                <string>Concord</string>
+                <key>population</key>
+                <string>1,335,832  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>New-Jersey</string>
+                <key>joinDate</key>
+                <string>December 18, 1787 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/new-jersey-flag-small</string>
+                <key>motto</key>
+                <string>Liberty and Prosperity</string>
+                <key>capital</key>
+                <string>Trenton</string>
+                <key>population</key>
+                <string>8,996,351  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>New-Mexico</string>
+                <key>joinDate</key>
+                <string>January 6, 1912 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/new-mexico-flag-small</string>
+                <key>motto</key>
+                <string>It grows as it goes</string>
+                <key>capital</key>
+                <string>Santa Fe</string>
+                <key>population</key>
+                <string>2,084,193  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>New-York</string>
+                <key>joinDate</key>
+                <string>July 26, 1788 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/new-york-flag-small</string>
+                <key>motto</key>
+                <string>Ever Upward!</string>
+                <key>capital</key>
+                <string>Albany</string>
+                <key>population</key>
+                <string>19,889,657  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>North-Carolina</string>
+                <key>joinDate</key>
+                <string>November 21, 1789 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/north-carolina-flag-small</string>
+                <key>motto</key>
+                <string>To be, rather than to seem</string>
+                <key>capital</key>
+                <string>Raleigh</string>
+                <key>population</key>
+                <string>10,247,632  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>North-Dakota</string>
+                <key>joinDate</key>
+                <string>November 2, 1889 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/north-dakota-flag-small</string>
+                <key>motto</key>
+                <string>Liberty and union,
+                    now and forever, one and inseparable</string>
+                <key>capital</key>
+                <string>Bismarck</string>
+                <key>population</key>
+                <string>790,701  </string>
+            </dict>
+        </array>
+        
+        <key>O</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Ohio</string>
+                <key>joinDate</key>
+                <string>March 1, 1803 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/ohio-flag-small</string>
+                <key>motto</key>
+                <string>With God, all things are possible</string>
+                <key>capital</key>
+                <string>Columbus</string>
+                <key>population</key>
+                <string>11,646,273  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Oklahoma</string>
+                <key>joinDate</key>
+                <string>November 16, 1907 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/oklahoma-flag-small</string>
+                <key>motto</key>
+                <string>Labor conquers all things</string>
+                <key>capital</key>
+                <string>Oklahoma City</string>
+                <key>population</key>
+                <string>3,974,794  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Oregon</string>
+                <key>joinDate</key>
+                <string>February 14, 1859 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/oregon-flag-small</string>
+                <key>motto</key>
+                <string>She flies with her own wings</string>
+                <key>capital</key>
+                <string>Salem</string>
+                <key>population</key>
+                <string>4,144,527  </string>
+            </dict>
+        </array>
+        
+        <key>P</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Pennsylvania</string>
+                <key>joinDate</key>
+                <string>December 12, 1787 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/pennsylvania-flag-small</string>
+                <key>motto</key>
+                <string>Virtue, liberty and independence</string>
+                <key>capital</key>
+                <string>Harrisburg</string>
+                <key>population</key>
+                <string>12,819,975  </string>
+            </dict>
+        </array>
+        
+        <key>R</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Rhode-Island</string>
+                <key>joinDate</key>
+                <string>May 29, 1790 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/rhode-island-flag-small</string>
+                <key>motto</key>
+                <string>Hope</string>
+                <key>capital</key>
+                <string>Providence</string>
+                <key>population</key>
+                <string>1,059,080  </string>
+            </dict>
+        </array>
+        
+        <key>S</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>South-Carolina</string>
+                <key>joinDate</key>
+                <string>May 23, 1788 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/south-carolina-flag-small</string>
+                <key>motto</key>
+                <string>While I breathe, I hope</string>
+                <key>capital</key>
+                <string>Columbia</string>
+                <key>population</key>
+                <string>5,030,118  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>South-Dakota</string>
+                <key>joinDate</key>
+                <string>November 2, 1889 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/south-dakota-flag-small</string>
+                <key>motto</key>
+                <string>Under God, the people rule</string>
+                <key>capital</key>
+                <string>Pierre</string>
+                <key>population</key>
+                <string>868,799  </string>
+            </dict>
+        </array>
+        
+        <key>T</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Tennessee</string>
+                <key>joinDate</key>
+                <string>June 1, 1796 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/tennessee-flag-small</string>
+                <key>motto</key>
+                <string>Agriculture and commerce</string>
+                <key>capital</key>
+                <string>Nashville</string>
+                <key>population</key>
+                <string>6,705,339  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Texas</string>
+                <key>joinDate</key>
+                <string>December 29, 1845 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/texas-flag-small</string>
+                <key>motto</key>
+                <string>Friendship</string>
+                <key>capital</key>
+                <string>Austin</string>
+                <key>population</key>
+                <string>28,449,186  </string>
+            </dict>
+        </array>
+        
+        <key>U</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Utah</string>
+                <key>joinDate</key>
+                <string>January 4, 1896 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/utah-flag-small</string>
+                <key>motto</key>
+                <string>Industry</string>
+                <key>capital</key>
+                <string>Salt Lake City</string>
+                <key>population</key>
+                <string>3,098,761  </string>
+            </dict>
+        </array>
+        
+        <key>V</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Vermont</string>
+                <key>joinDate</key>
+                <string>March 4, 1791 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/vermont-flag-small</string>
+                <key>motto</key>
+                <string>May the 14th star shine bright</string>
+                <key>capital</key>
+                <string>Montpelier</string>
+                <key>population</key>
+                <string>624,592  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Virginia</string>
+                <key>joinDate</key>
+                <string>June 25, 1788 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/virginia-flag-small</string>
+                <key>motto</key>
+                <string>Thus always to tyrants</string>
+                <key>capital</key>
+                <string>Richmond</string>
+                <key>population</key>
+                <string>8,492,783  </string>
+            </dict>
+        </array>
+        
+        <key>W</key>
+        <array>
+            <dict>
+                <key>stateName</key>
+                <string>Washington</string>
+                <key>joinDate</key>
+                <string>November 11, 1889 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/washington-flag-small</string>
+                <key>motto</key>
+                <string>By and by</string>
+                <key>capital</key>
+                <string>Olympia</string>
+                <key>population</key>
+                <string>7,384,721  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>West-Virginia</string>
+                <key>joinDate</key>
+                <string>June 20, 1863 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/west-virginia-flag-small</string>
+                <key>motto</key>
+                <string>Mountaineers always free</string>
+                <key>capital</key>
+                <string>Charleston</string>
+                <key>population</key>
+                <string>1,834,882  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Wisconsin</string>
+                <key>joinDate</key>
+                <string>May 29, 1848 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/wisconsin-flag-small</string>
+                <key>motto</key>
+                <string>Forward</string>
+                <key>capital</key>
+                <string>Madison</string>
+                <key>population</key>
+                <string>5,795,147  </string>
+            </dict>
+            
+            <dict>
+                <key>stateName</key>
+                <string>Wyoming</string>
+                <key>joinDate</key>
+                <string>July 10, 1890 </string>
+                <key>imagePath</key>
+                <string>Flags/Small/wyoming-flag-small</string>
+                <key>motto</key>
+                <string>Equal rights</string>
+                <key>capital</key>
+                <string>Cheyenne</string>
+                <key>population</key>
+                <string>589,713</string>
+            </dict>
+            
+            
+            
+        </array>
+        
+    </dict>
+</plist>
+

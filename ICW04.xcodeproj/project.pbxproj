@@ -7,14 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1E5E44301FB6AD0100504034 /* pLIstStatesTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E5E442F1FB6AD0100504034 /* pLIstStatesTableViewCell.m */; };
 		1E7930101FB3A4AB00246FB7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E79300F1FB3A4AB00246FB7 /* AppDelegate.m */; };
-		1E7930131FB3A4AB00246FB7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E7930121FB3A4AB00246FB7 /* ViewController.m */; };
 		1E7930161FB3A4AB00246FB7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E7930141FB3A4AB00246FB7 /* Main.storyboard */; };
 		1E7930181FB3A4AB00246FB7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1E7930171FB3A4AB00246FB7 /* Assets.xcassets */; };
 		1E79301B1FB3A4AB00246FB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E7930191FB3A4AB00246FB7 /* LaunchScreen.storyboard */; };
 		1E79301E1FB3A4AB00246FB7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E79301D1FB3A4AB00246FB7 /* main.m */; };
 		1E7930281FB3A4AB00246FB7 /* ICW04Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E7930271FB3A4AB00246FB7 /* ICW04Tests.m */; };
 		1E7930331FB3A4AB00246FB7 /* ICW04UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E7930321FB3A4AB00246FB7 /* ICW04UITests.m */; };
+		1E7930421FB3A59F00246FB7 /* StatesInfoTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1E7930411FB3A59F00246FB7 /* StatesInfoTableViewController.m */; };
+		1E7930441FB3A60C00246FB7 /* USStates.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1E7930431FB3A60C00246FB7 /* USStates.plist */; };
+		1EBEA76A1FB6C9BA0030D62B /* Flags in Resources */ = {isa = PBXBuildFile; fileRef = 1EBEA7691FB6C9BA0030D62B /* Flags */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,11 +38,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1E5E442E1FB6AD0100504034 /* pLIstStatesTableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = pLIstStatesTableViewCell.h; sourceTree = "<group>"; };
+		1E5E442F1FB6AD0100504034 /* pLIstStatesTableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = pLIstStatesTableViewCell.m; sourceTree = "<group>"; };
 		1E79300B1FB3A4AA00246FB7 /* ICW04.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ICW04.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E79300E1FB3A4AB00246FB7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		1E79300F1FB3A4AB00246FB7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		1E7930111FB3A4AB00246FB7 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		1E7930121FB3A4AB00246FB7 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		1E7930151FB3A4AB00246FB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1E7930171FB3A4AB00246FB7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1E79301A1FB3A4AB00246FB7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -51,6 +54,10 @@
 		1E79302E1FB3A4AB00246FB7 /* ICW04UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ICW04UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E7930321FB3A4AB00246FB7 /* ICW04UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ICW04UITests.m; sourceTree = "<group>"; };
 		1E7930341FB3A4AB00246FB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1E7930401FB3A59F00246FB7 /* StatesInfoTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = StatesInfoTableViewController.h; sourceTree = "<group>"; };
+		1E7930411FB3A59F00246FB7 /* StatesInfoTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = StatesInfoTableViewController.m; sourceTree = "<group>"; };
+		1E7930431FB3A60C00246FB7 /* USStates.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = USStates.plist; sourceTree = "<group>"; };
+		1EBEA7691FB6C9BA0030D62B /* Flags */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Flags; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,13 +110,17 @@
 			children = (
 				1E79300E1FB3A4AB00246FB7 /* AppDelegate.h */,
 				1E79300F1FB3A4AB00246FB7 /* AppDelegate.m */,
-				1E7930111FB3A4AB00246FB7 /* ViewController.h */,
-				1E7930121FB3A4AB00246FB7 /* ViewController.m */,
 				1E7930141FB3A4AB00246FB7 /* Main.storyboard */,
+				1E5E442E1FB6AD0100504034 /* pLIstStatesTableViewCell.h */,
+				1E5E442F1FB6AD0100504034 /* pLIstStatesTableViewCell.m */,
 				1E7930171FB3A4AB00246FB7 /* Assets.xcassets */,
 				1E7930191FB3A4AB00246FB7 /* LaunchScreen.storyboard */,
 				1E79301C1FB3A4AB00246FB7 /* Info.plist */,
 				1E79301D1FB3A4AB00246FB7 /* main.m */,
+				1E7930401FB3A59F00246FB7 /* StatesInfoTableViewController.h */,
+				1E7930411FB3A59F00246FB7 /* StatesInfoTableViewController.m */,
+				1E7930431FB3A60C00246FB7 /* USStates.plist */,
+				1EBEA7691FB6C9BA0030D62B /* Flags */,
 			);
 			path = ICW04;
 			sourceTree = "<group>";
@@ -238,9 +249,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1E7930441FB3A60C00246FB7 /* USStates.plist in Resources */,
 				1E79301B1FB3A4AB00246FB7 /* LaunchScreen.storyboard in Resources */,
 				1E7930181FB3A4AB00246FB7 /* Assets.xcassets in Resources */,
 				1E7930161FB3A4AB00246FB7 /* Main.storyboard in Resources */,
+				1EBEA76A1FB6C9BA0030D62B /* Flags in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -265,9 +278,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1E7930131FB3A4AB00246FB7 /* ViewController.m in Sources */,
+				1E5E44301FB6AD0100504034 /* pLIstStatesTableViewCell.m in Sources */,
 				1E79301E1FB3A4AB00246FB7 /* main.m in Sources */,
 				1E7930101FB3A4AB00246FB7 /* AppDelegate.m in Sources */,
+				1E7930421FB3A59F00246FB7 /* StatesInfoTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
