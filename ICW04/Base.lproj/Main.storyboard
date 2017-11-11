@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--US States informations-->
+        <!--US States information-->
         <scene sceneID="FN4-cm-2Ug">
             <objects>
                 <tableViewController id="UB4-xD-iHK" customClass="StatesInfoTableViewController" sceneMemberID="viewController">
@@ -60,8 +60,8 @@
                                             <nil key="textColor"/>
                                             <nil key="highlightedColor"/>
                                         </label>
-                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xyr-qY-vRJ">
-                                            <rect key="frame" x="119" y="40" width="240" height="37"/>
+                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" lineBreakMode="wordWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xyr-qY-vRJ">
+                                            <rect key="frame" x="119" y="40" width="240" height="44"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                             <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                             <nil key="textColor"/>
@@ -101,7 +101,7 @@
                                             <nil key="highlightedColor"/>
                                         </label>
                                     </subviews>
-                                    <color key="backgroundColor" red="0.24774721264839172" green="0.73077136278152466" blue="0.96141892671585083" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 </tableViewCellContentView>
                                 <connections>
                                     <outlet property="capital" destination="X5g-ek-Ecg" id="gSj-RM-ZhB"/>
@@ -118,7 +118,7 @@
                             <outlet property="delegate" destination="UB4-xD-iHK" id="qlg-ZT-8OC"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="US States informations" id="53S-fx-fGl"/>
+                    <navigationItem key="navigationItem" title="US States information" id="53S-fx-fGl"/>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xBK-Lo-4wG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
