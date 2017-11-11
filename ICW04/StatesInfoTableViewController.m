@@ -61,6 +61,18 @@
     NSString* key = self.keys[indexPath.section];
     NSArray* keyValues = self.states[key];
     
+    tableView.separatorStyle = UITableViewCellSeparatorStyleNone;
+    
+    // Draw top border only on first cell
+    if (indexPath.row == 0) {
+        UIView *topLineView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, self.view.bounds.size.width, 2)];
+        topLineView.backgroundColor = [UIColor blackColor];
+        [cell.contentView addSubview:topLineView];
+    }
+    
+    UIView *bottomLineView = [[UIView alloc] initWithFrame:CGRectMake(0, cell.bounds.size.height, self.view.bounds.size.width, 2)];
+    bottomLineView.backgroundColor = [UIColor blackColor];
+    [cell.contentView addSubview:bottomLineView];
 
   
     self.tableView.rowHeight = 260;
